@@ -8,3 +8,4 @@ VOLUME /data
 WORKDIR /data
 
 ENTRYPOINT /bin/bash
+
